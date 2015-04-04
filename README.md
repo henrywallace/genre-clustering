@@ -1,7 +1,14 @@
-Genre Hierarchies Project
-=========================
+# Music Tags Project
+This folder contains research I did from 2014-2015 on clustering [folksonomic](http://en.wikipedia.org/wiki/Folksonomy) data from Last.fm. 
 
-## Summary
-IPython notebooks have been made exploring general topics. The topics will be indexed here:
+## Last.fm command-line tools
+During this time I also created some useful command-line tools to interact with Last.fm data:
 
-- [Karger implementaiton and general *k* min-cut heuristics](http://htmlpreview.github.io/?https://github.com/hfwallace/genre-hierarchies/blob/master/notebooks/html/minimum-cuts.html)
+- `scrobble.py`
+- `recommend.py`
+
+## Explanatory IPython notebooks
+- Generalized Karger's *k*-cut
+- fdas
+
+$f(x) = x + 1$
