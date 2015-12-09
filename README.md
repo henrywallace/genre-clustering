@@ -6,8 +6,3 @@ During this time I also created some useful command-line tools to interact with 
 
 - `scrobble.py`
 - `recommend.py`
-
-## Explanatory IPython notebooks
-- Generalized Karger's *k*-cut
-- Brute force min-cut checking
-- SOM clustering
