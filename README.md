@@ -1,5 +1,5 @@
 # Music Tags Project
-This folder contains a research thesis I did from 2014-2015 for Brown University on clustering [folksonomic](http://en.wikipedia.org/wiki/Folksonomy) data from Last.fm. The project includes topic modeling, hierarchical and SOM clustering.
+This folder contains parts of a research thesis I did from 2014-2015 for Brown University on clustering [folksonomic](http://en.wikipedia.org/wiki/Folksonomy) data from Last.fm. The project includes topic modeling, hierarchical and SOM clustering.
 
 ## Notebooks
 Several notebooks of interesting sub-topics
